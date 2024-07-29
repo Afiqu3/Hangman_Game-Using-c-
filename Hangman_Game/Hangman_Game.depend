@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652074787 source:c:\users\hp\documents\c language\hangman_game\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"logo.h"
+	"hangman_word.h"
+
+1652076250 c:\users\hp\documents\c language\hangman_game\logo.h
+
+1652074299 c:\users\hp\documents\c language\hangman_game\hangman_word.h
+
